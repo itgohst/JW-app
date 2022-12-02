@@ -1,0 +1,1 @@
+import{_ as e,o as t,c}from"./index.7c6c6b61.js";const o={data(){return{}}};function r(n,a,s,u,_,p){return t(),c("h1",null,"\u8F66\u8F86\u8BC6\u522B")}const f=e(o,[["render",r]]);export{f as default};
